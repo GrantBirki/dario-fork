@@ -1,0 +1,4 @@
+baseURL = "https://dario.birki.io/"
+languageCode = "en-us"
+title = "Dario"
+theme = "dario"
