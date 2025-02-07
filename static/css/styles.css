@@ -193,6 +193,10 @@ header h1 a:hover {
   text-decoration: none;
 }
 
+p a:hover {
+  opacity: 0.7;
+}
+
 /* Header Controls */
 .header-controls {
   display: flex;
